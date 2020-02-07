@@ -1,0 +1,25 @@
+*{
+    overflow: hidden;
+}
+
+p{
+    font-size: 20px;
+}
+
+ul li{
+    list-style: none;
+    text-decoration: none;
+    display: inline-block;
+    
+}
+ul li a{
+    color: rgb(108,117,125);
+
+}
+.contenedor1{
+    clip-path: polygon(0 0, 80% 0, 100% 100%, 0% 100%);
+}
+.ola{
+    position: relative;
+    width: 100%;
+}
